@@ -1,21 +1,22 @@
-🚀 Tech Stack & Features
+# Jithin P P — Videographer & Photographer Portfolio
 
-Framework: Next.js (React)
+A minimal, high-performance portfolio website built for Dubai-based videographer and photographer Jithin P P, featuring a swipeable 9:16 portrait video showcase, category filters, and integrated Google Drive archives.
 
-Styling: Tailwind CSS
+## Live Demo
 
-Design Aesthetic: Off-white minimalist palette (#FAF9F6, #F2EFE9, #18181B, #B45309)
+- **Production URL:** [jithin-neon.vercel.app](https://jithin-neon.vercel.app/)[cite: 1]
 
-Key Features:
+## Tech Stack
 
-Horizontal 9:16 portrait video reel carousel with smooth snap-scroll behavior.
+- **Framework:** Next.js (App Router), React
+- **Styling:** Tailwind CSS
+- **Icons & UI:** Lucide React
+- **Hosting:** Vercel
 
-Interactive inline video playback controls with smooth fade-in/out thumbnail switching.
+## Features
 
-Dynamic category filtering (Cars, Real Estate, Fashion & Model, Events & Concerts, Film Promo).
-
-Dedicated Google Drive archive card with dual stacked links for seamless 95+ video library access without performance bottlenecks.
-
-Micro-interactions (hover lifts, scaled portrait cards, and responsive state transitions).
-
-Fully responsive layout optimized for mobile, tablet, and desktop viewing.
+- **Horizontal Swipeable Carousel:** Smooth touch and desktop-friendly 9:16 portrait reel showcase with interactive playback and custom controls.
+- **Category Filtering:** Filter reels dynamically across *Cars*, *Real Estate*, *Fashion & Model*, *Events & Concerts*, and *Film Promo* while keeping archive links anchored.
+- **Combined Archive Card:** Dedicated Google Drive archive card with stacked links for full client project folders.
+- **Off-White Editorial Aesthetic:** Tailored visual design inspired by luxury cinematic portfolios.
+- **Responsive Design:** Fully optimized for mobile, tablet, and desktop screens.
