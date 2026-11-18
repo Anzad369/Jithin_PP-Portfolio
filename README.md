@@ -4,7 +4,7 @@ A minimal, high-performance portfolio website built for Dubai-based videographer
 
 ## Live Demo
 
-- **Production URL:** [jithin-neon.vercel.app](https://jithin-neon.vercel.app/)
+- **Production URL:** [Jithin Portfolio](https://jithin-neon.vercel.app/)
 
 ## Tech Stack
 
